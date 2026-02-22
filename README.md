@@ -1,16 +1,15 @@
-<div>
-    <p align="center"><a href="https://github.com/MostafaMosaad3"><img width="80%" alt="Hello, I'm Mostafa A Backend developer" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/MostafaMosaad3"><img width="80%" alt="Hello, I'm Mostafa A Backend developer" src="./assets/gh-readme-header.png" /></a></p>
 
-    <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=MostafaMosaad3&color=6FDA44&style=flat-square" alt="Profile Views" />
-        <img src="https://img.shields.io/github/followers/MostafaMosaad3?label=Followers&style=social" alt="GitHub Followers" />
-    </div>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=MostafaMosaad3&color=6FDA44&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/MostafaMosaad3?label=Followers&style=social" alt="GitHub Followers" />
+</div>
 
-    <div align="center">
-        <img src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="400">
-    </div>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="400">
+</div>
 
-    <br>
+<br>
 
     ## About Me
 
@@ -147,16 +146,14 @@
 
     ---
 
-    <div align="center">
-        <p>
-            <strong>"Code is poetry written in logic"</strong>
-        </p>
-        <p>
-            <sub>Made with care by Mostafa Mosaad</sub>
-        </p>
-        <p>
-            <sub>From <a href="https://github.com/MostafaMosaad3">MostafaMosaad3</a></sub>
-        </p>
-    </div>
-
+<div align="center">
+    <p>
+        <strong>"Code is poetry written in logic"</strong>
+    </p>
+    <p>
+        <sub>Made with care by Mostafa Mosaad</sub>
+    </p>
+    <p>
+        <sub>From <a href="https://github.com/MostafaMosaad3">MostafaMosaad3</a></sub>
+    </p>
 </div>
