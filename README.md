@@ -1,54 +1,85 @@
-<p align="center"><a href="https://github.com/MostafaMosaad3"><img width="80%" alt="Hello, I'm Mostafa A Backend developer" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/MostafaMosaad3"><img width="80%" alt="Hello, I'm Mostafa — A Backend Developer" src="./assets/gh-readme-header.png" /></a></p>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=MostafaMosaad3&color=6FDA44&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/MostafaMosaad3?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="400">
-</div>
-
 <br>
 
 ## About Me
 
-**Backend Developer with a passion for creating efficient web applications that drive organizational success. Skilled in leveraging technologies like Laravel, PHP, MySQL, Bootstrap, JQuery, JavaScript, AJAX, OOP, HTML, and CSS to build reliable, user-friendly systems. Eager to contribute and learn in a collaborative environment, with proven abilities to read and write clean code, build optimized database designs, and solve complex problems with creative solutions. A fast learner, confident communicator, and team player focused on developing software that meets organizational needs and enhances business success.**
+Backend Developer with 1.5+ years of experience building production REST APIs and real-time systems with PHP, Laravel, and MySQL. Currently working remotely as a PHP Developer at Lothgha App (Saudi Arabia).
 
-- Currently working on innovative backend solutions
-- Continuously learning new technologies and best practices
-- Passionate about clean code, design patterns, and scalable architecture
-- Goal: Contributing to impactful open-source projects
-- Reach me: mostafamosaad202@gmail.com
+- Currently working as **PHP Developer** at **Lothgha App** (Remote — Saudi Arabia)
+- Previously **Backend Developer** at **ITSP Group** (Giza, Egypt)
+- BSc in Information Technology — **Mansoura University** (2024)
+- Currently learning: **Docker, CI/CD, System Design, Advanced MySQL**
+- Open to **backend developer opportunities** (remote or on-site)
+- Reach me: **mostafamosaad202@gmail.com**
 
 <br>
 
-## Tech Stack & Skills
+## Tech Stack
 
-### Backend Development
+### Backend & Database
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Frontend Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-005C97?style=for-the-badge&logo=ajax&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Real-Time & APIs
+![REST API](https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
 
-### Development Practices
-![OOP](https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=object&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=api&logoColor=white)
+### Auth & Payments
+![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Paymob](https://img.shields.io/badge/Paymob-1A1A2E?style=for-the-badge&logo=money&logoColor=white)
+
+### Testing
+![Pest](https://img.shields.io/badge/Pest_PHP-F28D1A?style=for-the-badge&logo=php&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge&logo=php&logoColor=white)
+
+### Architecture & Patterns
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-00599C?style=for-the-badge&logo=abstract&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-2496ED?style=for-the-badge&logo=abstract&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge&logo=object&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-FF6F00?style=for-the-badge&logo=abstract&logoColor=white)
+
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Tools & Technologies
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<br>
+
+## Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**E-Commerce Platform**](https://github.com/MostafaMosaad3/E_commerce) | Multi-guard auth, social login, queued notifications, Google Maps, 3-language support | Laravel, Fortify, Jobs & Queues, MySQL |
+| [**Livewire Dashboard**](https://github.com/MostafaMosaad3/Livewire-Dashboard) | Real-time interactive dashboard with dynamic filtering and reactive components | Laravel, Livewire |
+| [**Auth Package**](https://github.com/MostafaMosaad3/authentication-package) | Custom reusable Laravel authentication package | Laravel, PHP |
+| [**Paymob Integration**](https://github.com/MostafaMosaad3/integration-with-paymob-gateway) | Payment gateway integration for Laravel apps | Laravel, Paymob API |
+
+<br>
+
+## Professional Experience
+
+### Lothgha App — PHP Developer (Remote)
+**Feb 2025 – Present | Jeddah, Saudi Arabia**
+- Building RESTful APIs and interactive dashboards using native PHP, serving 100+ daily users
+- Optimized database queries, reducing API response time by 20%
+
+### ITSP Group — Backend Developer
+**Oct 2024 – Feb 2025 | Giza, Egypt**
+- Built and maintained 50+ RESTful API endpoints with Laravel and MySQL
+- Refactored legacy code to MVC architecture using SOLID principles
 
 <br>
 
@@ -81,29 +112,6 @@
 
 <br>
 
-## Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaMosaad3&repo=MostafaMosaad3&theme=dark&hide_border=true&title_color=6FDA44)](https://github.com/MostafaMosaad3/MostafaMosaad3)
-
-</div>
-
-> Tip: Pin your best repositories to showcase your work! Go to your GitHub profile and customize your pins
-
-<br>
-
-## Professional Experience
-
-- Building scalable backend systems with Laravel & PHP
-- Designing and optimizing database architectures
-- Creating RESTful APIs for modern web applications
-- Developing responsive user interfaces with Bootstrap & jQuery
-- Writing clean, maintainable, and testable code
-- Collaborating in Agile development environments
-
-<br>
-
 ## Connect With Me
 
 <div align="center">
@@ -120,22 +128,10 @@
 
 <br>
 
-## Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
-<br>
-
 ---
 
 <div align="center">
     <strong>"Code is poetry written in logic"</strong>
     <br><br>
     <sub>Made with care by Mostafa Mosaad</sub>
-    <br>
-    <sub>From <a href="https://github.com/MostafaMosaad3">MostafaMosaad3</a></sub>
 </div>
