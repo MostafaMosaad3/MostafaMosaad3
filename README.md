@@ -9,9 +9,10 @@
 
 ## About Me
 
-Backend Developer with 1.5+ years of experience building production REST APIs and real-time systems with PHP, Laravel, and MySQL. Currently working remotely as a PHP Developer at Lothgha App (Saudi Arabia).
+Backend Developer with 1.5+ years of experience building production REST APIs, internal applications, and real-time systems with PHP, Laravel, and MySQL.
 
-- Currently working as **PHP Developer** at **Lothgha App** (Remote — Saudi Arabia)
+- Currently working as **Backend Developer** at **Gourmet Egypt** (Zamalek, Egypt)
+- Previously **PHP Developer** at **Lothgha App** (Remote — Saudi Arabia)
 - Previously **Backend Developer** at **ITSP Group** (Giza, Egypt)
 - BSc in Information Technology — **Mansoura University** (2024)
 - Currently learning: **Docker, CI/CD, System Design, Advanced MySQL**
@@ -71,14 +72,19 @@ Backend Developer with 1.5+ years of experience building production REST APIs an
 
 ## Professional Experience
 
+### Gourmet Egypt — Backend Developer
+**May 2025 – Present | Zamalek, Egypt**
+- Developing and maintaining internal applications used across all departments
+- Building scalable solutions to improve operational efficiency and cross-department workflows
+
 ### Lothgha App — PHP Developer (Remote)
-**Feb 2025 – Present | Jeddah, Saudi Arabia**
-- Building RESTful APIs and interactive dashboards using native PHP, serving 100+ daily users
-- Optimized database queries, reducing API response time by 20%
+**Feb 2025 – May 2025 | Jeddah, Saudi Arabia**
+- Developed RESTful APIs and dynamic dashboards using native PHP, serving 100+ daily users
+- Optimized database queries, reducing API response time for real-time data delivery
 
 ### ITSP Group — Backend Developer
-**Oct 2024 – Feb 2025 | Giza, Egypt**
-- Built and maintained 50+ RESTful API endpoints with Laravel and MySQL
+**Oct 2024 – Jan 2025 | Giza, Egypt**
+- Built and maintained 50+ backend endpoints with Laravel and MySQL
 - Refactored legacy code to MVC architecture using SOLID principles
 
 <br>
