@@ -64,7 +64,7 @@ Backend Developer with 1.5+ years of experience building production REST APIs, i
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**E-Commerce Platform**](https://github.com/MostafaMosaad3/E_commerce) | Multi-guard auth, social login, queued notifications, Google Maps, 3-language support | Laravel, Fortify, Jobs & Queues, MySQL |
-| [**Livewire Dashboard**](https://github.com/MostafaMosaad3/Livewire-Dashboard) | Real-time interactive dashboard with dynamic filtering and reactive components | Laravel, Livewire |
+| [**Filament Construction System**](https://github.com/MostafaMosaad3/filament-construction-system) | Construction project management — clients, workers, suppliers, expenses, payments, PDF/Excel export, role-based access, 4 report pages | Laravel 12, Filament v4, Spatie |
 | [**Auth Package**](https://github.com/MostafaMosaad3/authentication-package) | Custom reusable Laravel authentication package | Laravel, PHP |
 | [**Paymob Integration**](https://github.com/MostafaMosaad3/integration-with-paymob-gateway) | Payment gateway integration for Laravel apps | Laravel, Paymob API |
 
@@ -121,7 +121,7 @@ Backend Developer with 1.5+ years of experience building production REST APIs, i
 ## Connect With Me
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/mostafa-mosaad-843877233/">
+    <a href="https://www.linkedin.com/in/mostafamosaad/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:mostafamosaad202@gmail.com">
