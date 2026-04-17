@@ -1,6 +1,6 @@
-# Hi, I'm Mostafa Mosaad ð
+# Hi, I'm Mostafa Mosaad 👋
 
-### Backend Developer Â· PHP Â· Laravel Â· MySQL
+### Backend Developer · PHP · Laravel · MySQL
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MostafaMosaad3&color=6FDA44&style=flat-square" alt="Profile views" />
