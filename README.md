@@ -1,20 +1,22 @@
-<p align="center"><a href="https://github.com/MostafaMosaad3"><img width="80%" alt="Hello, I'm Mostafa — A Backend Developer" src="./assets/gh-readme-header.png" /></a></p>
+# Hi, I'm Mostafa Mosaad 👋
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=MostafaMosaad3&color=6FDA44&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/MostafaMosaad3?label=Followers&style=social" alt="GitHub Followers" />
-</div>
+### Backend Developer · PHP · Laravel · MySQL
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MostafaMosaad3&color=6FDA44&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/MostafaMosaad3?label=Followers&style=flat-square&color=blue" alt="GitHub followers" />
+</p>
+
+---
 
 ## About Me
 
 Backend Developer with 1.5+ years of experience building production REST APIs, internal applications, and real-time systems with PHP, Laravel, and MySQL.
 
 - Currently working as **Backend Developer** at **Gourmet Egypt** (Zamalek, Egypt)
-- Previously **PHP Developer** at **Lothgha App** (Remote — Saudi Arabia)
+- Previously **PHP Developer** at **Lothgha App** (Remote â Saudi Arabia)
 - Previously **Backend Developer** at **ITSP Group** (Giza, Egypt)
-- BSc in Information Technology — **Mansoura University** (2024)
+- BSc in Information Technology â **Mansoura University** (2024)
 - Currently learning: **Docker, CI/CD, System Design, Advanced MySQL**
 - Open to **backend developer opportunities** (remote or on-site)
 - Reach me: **mostafamosaad202@gmail.com**
@@ -64,7 +66,7 @@ Backend Developer with 1.5+ years of experience building production REST APIs, i
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**E-Commerce Platform**](https://github.com/MostafaMosaad3/E_commerce) | Multi-guard auth, social login, queued notifications, Google Maps, 3-language support | Laravel, Fortify, Jobs & Queues, MySQL |
-| [**Filament Construction System**](https://github.com/MostafaMosaad3/filament-construction-system) | Construction project management — clients, workers, suppliers, expenses, payments, PDF/Excel export, role-based access, 4 report pages | Laravel 12, Filament v4, Spatie |
+| [**Filament Construction System**](https://github.com/MostafaMosaad3/filament-construction-system) | Construction project management â clients, workers, suppliers, expenses, payments, PDF/Excel export, role-based access, 4 report pages | Laravel 12, Filament v4, Spatie |
 | [**Auth Package**](https://github.com/MostafaMosaad3/authentication-package) | Custom reusable Laravel authentication package | Laravel, PHP |
 | [**Paymob Integration**](https://github.com/MostafaMosaad3/integration-with-paymob-gateway) | Payment gateway integration for Laravel apps | Laravel, Paymob API |
 
@@ -72,18 +74,18 @@ Backend Developer with 1.5+ years of experience building production REST APIs, i
 
 ## Professional Experience
 
-### Gourmet Egypt — Backend Developer
-**May 2025 – Present | Zamalek, Egypt**
+### Gourmet Egypt â Backend Developer
+**May 2025 â Present | Zamalek, Egypt**
 - Developing and maintaining internal applications used across all departments
 - Building scalable solutions to improve operational efficiency and cross-department workflows
 
-### Lothgha App — PHP Developer (Remote)
-**Feb 2025 – May 2025 | Jeddah, Saudi Arabia**
+### Lothgha App â PHP Developer (Remote)
+**Feb 2025 â May 2025 | Jeddah, Saudi Arabia**
 - Developed RESTful APIs and dynamic dashboards using native PHP, serving 100+ daily users
 - Optimized database queries, reducing API response time for real-time data delivery
 
-### ITSP Group — Backend Developer
-**Oct 2024 – Jan 2025 | Giza, Egypt**
+### ITSP Group â Backend Developer
+**Oct 2024 â Jan 2025 | Giza, Egypt**
 - Built and maintained 50+ backend endpoints with Laravel and MySQL
 - Refactored legacy code to MVC architecture using SOLID principles
 
@@ -141,3 +143,4 @@ Backend Developer with 1.5+ years of experience building production REST APIs, i
     <br><br>
     <sub>Made with care by Mostafa Mosaad</sub>
 </div>
+
