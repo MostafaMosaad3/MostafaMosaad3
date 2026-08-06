@@ -11,7 +11,7 @@
 
 ## About Me
 
-Backend Developer with 1.5+ years of experience building production REST APIs, internal applications, and real-time systems with PHP, Laravel, and MySQL.
+Backend Developer with 2 years of experience building production REST APIs, internal applications, and real-time systems with PHP, Laravel, and MySQL.
 
 - Currently working as **Backend Developer** at **Gourmet Egypt** (Zamalek, Egypt)
 - Previously **PHP Developer** at **Lothgha App** (Remote — Saudi Arabia)
@@ -65,6 +65,7 @@ Backend Developer with 1.5+ years of experience building production REST APIs, i
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**FreshCart — Multi-Vendor Marketplace**](https://github.com/MostafaMosaad3/FreshCart) | Multi-vendor e-commerce API — Sanctum auth, Meilisearch product search, nested categories, coupons, product variants, reviews | Laravel 12, Sanctum, Scout + Meilisearch, MySQL |
 | [**E-Commerce Platform**](https://github.com/MostafaMosaad3/E_commerce) | Multi-guard auth, social login, queued notifications, Google Maps, 3-language support | Laravel, Fortify, Jobs & Queues, MySQL |
 | [**Filament Construction System**](https://github.com/MostafaMosaad3/filament-construction-system) | Construction project management — clients, workers, suppliers, expenses, payments, PDF/Excel export, role-based access, 4 report pages | Laravel 12, Filament v4, Spatie |
 | [**Auth Package**](https://github.com/MostafaMosaad3/authentication-package) | Custom reusable Laravel authentication package | Laravel, PHP |
@@ -123,7 +124,7 @@ Backend Developer with 1.5+ years of experience building production REST APIs, i
 ## Connect With Me
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/mostafamosaad/">
+    <a href="https://www.linkedin.com/in/mostafamosaad3/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:mostafamosaad202@gmail.com">
