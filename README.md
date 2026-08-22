@@ -11,13 +11,13 @@
 
 ## About Me
 
-Backend Developer with 2 years of experience building production REST APIs, internal applications, and real-time systems with PHP, Laravel, and MySQL.
+Backend Developer building production REST APIs, internal business platforms, and real-time systems with PHP, Laravel, and MySQL.
 
-- Currently working as **Backend Developer** at **Gourmet Egypt** (Zamalek, Egypt)
-- Previously **PHP Developer** at **Lothgha App** (Remote — Saudi Arabia)
+- **Backend Developer** at **Gourmet Egypt** (Zamalek, Egypt) — leading backend development for the internal retail operations platform
+- **Backend Developer** at **Lothgha** (Remote — Jeddah, Saudi Arabia) — leading the migration of a legacy in-house PHP framework onto Laravel 12 and Filament v4
 - Previously **Backend Developer** at **ITSP Group** (Giza, Egypt)
 - BSc in Information Technology — **Mansoura University** (2024)
-- Currently learning: **Docker, CI/CD, System Design, Advanced MySQL**
+- Currently deepening: **System Design, Advanced MySQL, Kubernetes**
 - Open to **backend developer opportunities** (remote or on-site)
 - Reach me: **mostafamosaad202@gmail.com**
 
@@ -28,6 +28,7 @@ Backend Developer with 2 years of experience building production REST APIs, inte
 ### Backend & Database
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -42,9 +43,12 @@ Backend Developer with 2 years of experience building production REST APIs, inte
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Paymob](https://img.shields.io/badge/Paymob-1A1A2E?style=for-the-badge&logo=money&logoColor=white)
 
-### Testing
+### Testing & Delivery
 ![Pest](https://img.shields.io/badge/Pest_PHP-F28D1A?style=for-the-badge&logo=php&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Architecture & Patterns
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-00599C?style=for-the-badge&logo=abstract&logoColor=white)
@@ -65,11 +69,8 @@ Backend Developer with 2 years of experience building production REST APIs, inte
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**FreshCart — Multi-Vendor Marketplace**](https://github.com/MostafaMosaad3/FreshCart) | Multi-vendor e-commerce API — Sanctum auth, Meilisearch product search, nested categories, coupons, product variants, reviews | Laravel 12, Sanctum, Scout + Meilisearch, MySQL |
-| [**E-Commerce Platform**](https://github.com/MostafaMosaad3/E_commerce) | Multi-guard auth, social login, queued notifications, Google Maps, 3-language support | Laravel, Fortify, Jobs & Queues, MySQL |
+| [**FreshCart — Multi-Vendor Marketplace**](https://github.com/MostafaMosaad3/FreshCart) | Multi-vendor e-commerce API — Sanctum auth, Meilisearch product search, nested categories, coupons, product variants, reviews. Strategy pattern for swappable payment gateways, Laravel Pipeline for staged checkout pricing | Laravel 12, Sanctum, Scout + Meilisearch, MySQL |
 | [**Filament Construction System**](https://github.com/MostafaMosaad3/filament-construction-system) | Construction project management — clients, workers, suppliers, expenses, payments, PDF/Excel export, role-based access, 4 report pages | Laravel 12, Filament v4, Spatie |
-| [**Auth Package**](https://github.com/MostafaMosaad3/authentication-package) | Custom reusable Laravel authentication package | Laravel, PHP |
-| [**Paymob Integration**](https://github.com/MostafaMosaad3/integration-with-paymob-gateway) | Payment gateway integration for Laravel apps | Laravel, Paymob API |
 
 <br>
 
@@ -77,18 +78,23 @@ Backend Developer with 2 years of experience building production REST APIs, inte
 
 ### Gourmet Egypt — Backend Developer
 **May 2025 – Present | Zamalek, Egypt**
-- Developing and maintaining internal applications used across all departments
-- Building scalable solutions to improve operational efficiency and cross-department workflows
+- Lead backend development across the internal platform used daily by ~50 staff in procurement, operations, and retail stores
+- Designed a centralized product and pricing service keeping catalog, pricing, and nutritional data consistent across point-of-sale, e-commerce, and loyalty channels
+- Built delivery tracking with a token-secured driver API for real-time status and location, including cold-chain temperature monitoring
+- Improved responsiveness under load by offloading reporting, notifications, and third-party syncs to Redis-backed queues
 
-### Lothgha App — PHP Developer (Remote)
-**Feb 2025 – May 2025 | Jeddah, Saudi Arabia**
-- Developed RESTful APIs and dynamic dashboards using native PHP, serving 100+ daily users
-- Optimized database queries, reducing API response time for real-time data delivery
+### Lothgha — Backend Developer (Remote)
+**Feb 2025 – Present | Jeddah, Saudi Arabia**
+- Lead the backend migration from a legacy in-house PHP framework onto Laravel 12 and Filament v4, delivered incrementally without service interruption
+- Established the project's automated testing practice from the ground up with Pest and PHPUnit
+- Integrated Stripe payments, Firebase messaging, and Apple/Google single sign-on; deployed via Docker with automated GitHub Actions pipelines
+- Previously built core features in the legacy framework including WebSocket chat, live video sessions, Redis caching, and push notifications
 
 ### ITSP Group — Backend Developer
-**Oct 2024 – Jan 2025 | Giza, Egypt**
-- Built and maintained 50+ backend endpoints with Laravel and MySQL
-- Refactored legacy code to MVC architecture using SOLID principles
+**Oct 2024 – Feb 2025 | Giza, Egypt**
+- Built and documented 50+ REST API endpoints with Laravel and MySQL
+- Structured shared business logic into service layers to keep features isolated and extensible
+- Refactored legacy code toward clean MVC architecture using SOLID principles
 
 <br>
 
