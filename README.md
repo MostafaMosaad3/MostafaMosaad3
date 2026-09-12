@@ -11,10 +11,10 @@
 
 ## About Me
 
-Backend Developer building production REST APIs, internal business platforms, and real-time systems with PHP, Laravel, and MySQL.
+Backend developer with two years of experience building and scaling production APIs and internal business platforms in Laravel and PHP. Focused on reliable, maintainable systems owned end-to-end from design through production.
 
-- **Backend Developer** at **Gourmet Egypt** (Zamalek, Egypt) — leading backend development for the internal retail operations platform
-- **Backend Developer** at **Lothgha** (Remote — Jeddah, Saudi Arabia) — leading the migration of a legacy in-house PHP framework onto Laravel 12 and Filament v4
+- **Backend Developer** at **Gourmet Egypt** (Zamalek, Egypt) — retail operations systems behind stores, warehouses, and delivery
+- **Backend Developer (Remote, Part-time)** at **Lothgha** (Jeddah, Saudi Arabia) — backend of a subscription mobile platform
 - Previously **Backend Developer** at **ITSP Group** (Giza, Egypt)
 - BSc in Information Technology — **Mansoura University** (2024)
 - Currently deepening: **System Design, Advanced MySQL, Kubernetes**
@@ -35,13 +35,15 @@ Backend Developer building production REST APIs, internal business platforms, an
 
 ### Real-Time & APIs
 ![REST API](https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Reverb](https://img.shields.io/badge/Laravel_Reverb-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Auth & Payments
 ![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Paymob](https://img.shields.io/badge/Paymob-1A1A2E?style=for-the-badge&logo=money&logoColor=white)
+![IAP](https://img.shields.io/badge/Apple_%26_Google_IAP-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Testing & Delivery
 ![Pest](https://img.shields.io/badge/Pest_PHP-F28D1A?style=for-the-badge&logo=php&logoColor=white)
@@ -61,7 +63,7 @@ Backend Developer building production REST APIs, internal business platforms, an
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
 
 <br>
 
@@ -69,8 +71,8 @@ Backend Developer building production REST APIs, internal business platforms, an
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**FreshCart — Multi-Vendor Marketplace**](https://github.com/MostafaMosaad3/FreshCart) | Multi-vendor e-commerce API — Sanctum auth, Meilisearch product search, nested categories, coupons, product variants, reviews. Strategy pattern for swappable payment gateways, Laravel Pipeline for staged checkout pricing | Laravel 12, Sanctum, Scout + Meilisearch, MySQL |
-| [**Filament Construction System**](https://github.com/MostafaMosaad3/filament-construction-system) | Construction project management — clients, workers, suppliers, expenses, payments, PDF/Excel export, role-based access, 4 report pages | Laravel 12, Filament v4, Spatie |
+| [**FreshCart — Multi-Vendor Marketplace API**](https://github.com/MostafaMosaad3/FreshCart) | Multi-vendor e-commerce API with customer, vendor, and admin roles. Strategy-pattern payment gateways, Pipeline-based checkout pricing, transactional order placement, queued refunds and notifications, Meilisearch product search, PHPUnit coverage of checkout and payment flows | Laravel 12, Sanctum, Scout + Meilisearch, MySQL |
+| [**Filament Construction Management System**](https://github.com/MostafaMosaad3/filament-construction-system) | Admin panel managing clients, subcontractors, suppliers, expenses, and billing with role-based access and on-demand Excel/PDF reporting | Laravel 12, Filament v4, Spatie Permission |
 
 <br>
 
@@ -78,23 +80,23 @@ Backend Developer building production REST APIs, internal business platforms, an
 
 ### Gourmet Egypt — Backend Developer
 **May 2025 – Present | Zamalek, Egypt**
-- Lead backend development across the internal platform used daily by ~50 staff in procurement, operations, and retail stores
-- Designed a centralized product and pricing service keeping catalog, pricing, and nutritional data consistent across point-of-sale, e-commerce, and loyalty channels
-- Built delivery tracking with a token-secured driver API for real-time status and location, including cold-chain temperature monitoring
-- Improved responsiveness under load by offloading reporting, notifications, and third-party syncs to Redis-backed queues
+- Develop and maintain the company's internal operations platform used daily by store, warehouse, and delivery teams
+- Built the centralized product and pricing service that acts as the single source of truth across point-of-sale, e-commerce, and loyalty channels
+- Delivered procurement, inventory, task-compliance, and live order-preparation systems, replacing manual processes with automated workflows
+- Improved responsiveness under load by moving reporting, notifications, and third-party synchronization to background processing
 
-### Lothgha — Backend Developer (Remote)
+### Lothgha — Backend Developer (Remote, Part-time)
 **Feb 2025 – Present | Jeddah, Saudi Arabia**
-- Lead the backend migration from a legacy in-house PHP framework onto Laravel 12 and Filament v4, delivered incrementally without service interruption
-- Established the project's automated testing practice from the ground up with Pest and PHPUnit
-- Integrated Stripe payments, Firebase messaging, and Apple/Google single sign-on; deployed via Docker with automated GitHub Actions pipelines
-- Previously built core features in the legacy framework including WebSocket chat, live video sessions, Redis caching, and push notifications
+- Develop and maintain the backend powering a production mobile platform: REST APIs, an admin panel, and scheduled background processing
+- Built subscription and payment flows, including card payments and Apple/Google in-app purchases with server-side verification
+- Delivered real-time features including chat, live video sessions, and push notifications
+- Established the automated testing suite and CI/CD pipeline, enabling safe staged releases to staging and production
 
 ### ITSP Group — Backend Developer
 **Oct 2024 – Feb 2025 | Giza, Egypt**
-- Built and documented 50+ REST API endpoints with Laravel and MySQL
-- Structured shared business logic into service layers to keep features isolated and extensible
-- Refactored legacy code toward clean MVC architecture using SOLID principles
+- Built and documented REST API endpoints backed by normalized relational schemas
+- Structured shared business logic into service layers to keep features isolated and easy to extend
+- Refactored legacy code toward a clean layered architecture and wrote integration tests covering API contracts ahead of each staging release
 
 <br>
 
@@ -107,14 +109,6 @@ Backend Developer building production REST APIs, internal business platforms, an
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaMosaad3&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44&hide_border=true" alt="GitHub Streak Stats" height="180" />
-</div>
-
-<br>
-
-## GitHub Trophies
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=MostafaMosaad3&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 <br>
@@ -136,18 +130,4 @@ Backend Developer building production REST APIs, internal business platforms, an
     <a href="mailto:mostafamosaad202@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/MostafaMosaad3">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
 </div>
-
-<br>
-
----
-
-<div align="center">
-    <strong>"Code is poetry written in logic"</strong>
-    <br><br>
-    <sub>Made with care by Mostafa Mosaad</sub>
-</div>
-
