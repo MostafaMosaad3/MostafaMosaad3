@@ -19,7 +19,7 @@ Backend developer with two years of experience building and scaling production A
 - BSc in Information Technology — **Mansoura University** (2024)
 - Currently deepening: **System Design, Advanced MySQL, Kubernetes**
 - Open to **backend developer opportunities** (remote or on-site)
-- Reach me: **mostafamosaad202@gmail.com**
+- Reach me: **mostafamosaad202@gmail.com** · [Resume (PDF)](https://github.com/MostafaMosaad3/MostafaMosaad3/blob/main/Mostafa_Mosaad_Resume.pdf)
 
 <br>
 
