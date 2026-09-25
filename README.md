@@ -11,13 +11,13 @@
 
 ## About Me
 
-Backend developer with two years of experience building and scaling production APIs and internal business platforms in Laravel and PHP. Focused on reliable, maintainable systems owned end-to-end from design through production.
+Backend Developer with two years of experience designing and delivering scalable, production-grade systems with PHP and Laravel. Proven track record in payment and subscription integrations, real-time applications, and enterprise operations platforms. Committed to clean architecture, automated testing, and reliable delivery through CI/CD.
 
-- **Backend Developer** at **Gourmet Egypt** (Zamalek, Egypt) — retail operations systems behind stores, warehouses, and delivery
+- **Backend Developer** at **Gourmet Egypt** (Zamalek, Egypt) — inventory and operations platform behind stores, warehouses, and delivery
 - **Backend Developer (Remote, Part-time)** at **Lothgha** (Jeddah, Saudi Arabia) — backend of a subscription mobile platform
 - Previously **Backend Developer** at **ITSP Group** (Giza, Egypt)
 - BSc in Information Technology — **Mansoura University** (2024)
-- Currently deepening: **System Design, Advanced MySQL, Kubernetes**
+- Currently deepening: **System Design and Advanced MySQL**
 - Open to **backend developer opportunities** (remote or on-site)
 - Reach me: **mostafamosaad202@gmail.com** · [Resume (PDF)](https://github.com/MostafaMosaad3/MostafaMosaad3/blob/main/Mostafa_Mosaad_Resume.pdf)
 
@@ -49,7 +49,6 @@ Backend developer with two years of experience building and scaling production A
 ![Pest](https://img.shields.io/badge/Pest_PHP-F28D1A?style=for-the-badge&logo=php&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge&logo=php&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Architecture & Patterns
@@ -80,17 +79,17 @@ Backend developer with two years of experience building and scaling production A
 
 ### Gourmet Egypt — Backend Developer
 **May 2025 – Present | Zamalek, Egypt**
-- Develop and maintain the company's internal operations platform used daily by store, warehouse, and delivery teams
-- Built the centralized product and pricing service that acts as the single source of truth across point-of-sale, e-commerce, and loyalty channels
-- Delivered procurement, inventory, task-compliance, and live order-preparation systems, replacing manual processes with automated workflows
-- Improved responsiveness under load by moving reporting, notifications, and third-party synchronization to background processing
+- Develop and maintain the company's inventory and operations platform, used daily by store, warehouse, and delivery teams
+- Built the centralized product and pricing service that serves as the single source of truth across point-of-sale, e-commerce, and loyalty channels
+- Delivered procurement, inventory transfer, and order-preparation workflows, replacing manual processes with automated, auditable flows
+- Improved reliability and performance by moving reporting, notifications, and third-party synchronization to background processing
 
 ### Lothgha — Backend Developer (Remote, Part-time)
 **Feb 2025 – Present | Jeddah, Saudi Arabia**
-- Develop and maintain the backend powering a production mobile platform: REST APIs, an admin panel, and scheduled background processing
-- Built subscription and payment flows, including card payments and Apple/Google in-app purchases with server-side verification
-- Delivered real-time features including chat, live video sessions, and push notifications
-- Established the automated testing suite and CI/CD pipeline, enabling safe staged releases to staging and production
+- Own the backend of a production subscription mobile app serving users across the Middle East and Europe, including REST APIs and the admin panel
+- Built multi-currency payments and subscriptions across Stripe and Apple/Google in-app purchases, with secure server-side verification and financial reconciliation
+- Delivered real-time chat, live session scheduling, and push notifications, and migrated 40,000+ user recordings and legacy data to the new platform
+- Established the automated test suite, CI/CD pipeline, and branching workflow, enabling safe staged releases for a growing team
 
 ### ITSP Group — Backend Developer
 **Oct 2024 – Feb 2025 | Giza, Egypt**
