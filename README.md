@@ -16,7 +16,7 @@ Backend Developer with two years of experience designing and delivering scalable
 - **Backend Developer** at **Gourmet Egypt** (Zamalek, Egypt) — inventory and operations platform behind stores, warehouses, and delivery
 - **Backend Developer (Remote, Part-time)** at **Lothgha** (Jeddah, Saudi Arabia) — backend of a subscription mobile platform
 - Previously **Backend Developer** at **ITSP Group** (Giza, Egypt)
-- BSc in Information Technology — **Mansoura University** (2024)
+- Bachelor's degree in Computer and Information Sciences — **Mansoura University** (2024)
 - Currently deepening: **System Design and Advanced MySQL**
 - Open to **backend developer opportunities** (remote or on-site)
 - Reach me: **mostafamosaad202@gmail.com** · [Resume (PDF)](https://github.com/MostafaMosaad3/MostafaMosaad3/blob/main/Mostafa_Mosaad_Resume.pdf)
@@ -86,7 +86,7 @@ Backend Developer with two years of experience designing and delivering scalable
 
 ### Lothgha — Backend Developer (Remote, Part-time)
 **Feb 2025 – Present | Jeddah, Saudi Arabia**
-- Own the backend of a production subscription mobile app serving users across the Middle East and Europe, including REST APIs and the admin panel
+- Develop and maintain the backend of a production subscription mobile app serving users across the Middle East and Europe, including REST APIs and the admin panel
 - Built multi-currency payments and subscriptions across Stripe and Apple/Google in-app purchases, with secure server-side verification and financial reconciliation
 - Delivered real-time chat, live session scheduling, and push notifications, and migrated 40,000+ user recordings and legacy data to the new platform
 - Established the automated test suite, CI/CD pipeline, and branching workflow, enabling safe staged releases for a growing team
