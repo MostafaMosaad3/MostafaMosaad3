@@ -43,8 +43,9 @@ Backend Developer with two years of experience designing and delivering scalable
 | Company | Role | Period | Focus |
 |---------|------|--------|-------|
 | **Gourmet Egypt** · Zamalek | Backend Developer | May 2025 – Present | Inventory & operations platform, central product/pricing service, background processing |
-| **Lothgha** · Jeddah (Remote) | Backend Developer, Part-time | Feb 2025 – Present | Subscription app: Stripe + Apple/Google IAP, real-time chat, CI/CD, 40k+ recordings migrated |
-| **ITSP Group** · Giza | Backend Developer | Oct 2024 – Feb 2025 | REST APIs, service layers, refactoring legacy code, integration tests |
+| **Lothgha** · Jeddah (Remote) | Backend Developer, Part-time | Oct 2025 – Oct 2026 | Rebuilt the subscription app in Laravel 12: Stripe + Apple/Google billing, 5-currency checkout, real-time chat, CI/CD, 43k+ recordings migrated |
+| **Lothgha** · Jeddah (Remote) | PHP Developer, Part-time | Jan 2025 – Apr 2025 | Native OOP PHP APIs and admin dashboard, ~40% faster responses via MySQL indexing |
+| **ITSP Group** · Giza | Backend Developer | Oct 2024 – Jan 2025 | 50+ REST API endpoints, service layers, refactoring legacy code, integration tests |
 
 Full details in the [Resume (PDF)](https://github.com/MostafaMosaad3/MostafaMosaad3/blob/main/Mostafa_Mosaad_Resume.pdf).
 
