@@ -31,6 +31,7 @@ Backend Developer with two years of experience designing and delivering scalable
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**Slotly — Multi-Tenant Booking Platform**](https://github.com/MostafaMosaad3/slotly) 🚧 *in progress* | Booking and subscription platform for clinics, coaches and salons. Built around the hard parts: no double-booking under concurrent requests, idempotent Stripe webhooks, timezone/DST-correct slots, strict tenant isolation, load-tested indexes and keyset pagination | Laravel 12, MySQL, Stripe/Cashier, Pest, Larastan |
 | [**FreshCart — Multi-Vendor Marketplace API**](https://github.com/MostafaMosaad3/FreshCart) | Multi-vendor e-commerce API with customer, vendor, and admin roles. Strategy-pattern payment gateways, Pipeline-based checkout pricing, transactional order placement, queued refunds and notifications, Meilisearch product search, PHPUnit coverage of checkout and payment flows | Laravel 12, Sanctum, Scout + Meilisearch, MySQL |
 | [**Filament Construction Management System**](https://github.com/MostafaMosaad3/filament-construction-system) | Admin panel managing clients, subcontractors, suppliers, expenses, and billing with role-based access and on-demand Excel/PDF reporting | Laravel 12, Filament v4, Spatie Permission |
 | [**AI Build Planner**](https://github.com/MostafaMosaad3/stunning-ai-build-planner) | Streams Claude-generated build plans to the browser over Server-Sent Events, with unit-tested prompt construction and a Docker/Sail setup | Laravel 12, Inertia + Vue 3, SSE, Claude API |
